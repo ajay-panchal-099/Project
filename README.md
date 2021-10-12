@@ -18,7 +18,7 @@ More specifically, the following questions are of interest:
 Designing an artificial intelligence virtual assistant for my daily tasks. It uses Python, NLP, Machine Learning, Deep Learning, Artificial Intelligence, and many OpenCV algorithms.
 
 # Criminal Detection System (In Progress) 
-It is a machine learning-based Project. The idea behind this project is to find the criminal entry in our database. It uses HTML, CSS and JS for frontend and for backend Python and sqlite3 database. It uses machine learning, deep learning, and many OpenCV algorithms.
+It is a machine learning-based Project. The idea behind this project is to find the criminal entry in our database. It uses HTML, CSS and JS for frontend and for backend Python and sqlite3 database. It also uses machine learning, deep learning, and many OpenCV algorithms.
 
 # Covid-19 Analysis Power BI Projects.
 Link to the Power BI repo :
