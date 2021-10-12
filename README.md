@@ -23,3 +23,7 @@ It is a machine learning-based Project. The idea behind this project is to find 
 # Covid-19 Analysis Power BI Projects.
 Link to the Power BI repo :
 https://github.com/ajay-panchal-099/Power-BI
+
+# Portfolio Projects
+A small project to enhance my HTML, CSS and JS skills. 
+Must Visit : https://ajay-panchal-099.github.io/Portfolio/#home
